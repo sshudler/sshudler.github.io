@@ -1,5 +1,6 @@
 ---
 title:  Publications
+layout: single
 author_profile: true
 comments: false
 header:
