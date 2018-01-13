@@ -1,6 +1,6 @@
 ---
 title:  Publications
-layout: archive
+layout: single
 permalink: /pubs/
 author_profile: true
 comments: false
