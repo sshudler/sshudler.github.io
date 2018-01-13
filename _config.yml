@@ -87,8 +87,8 @@ author:
   name             : "Sergei Shudler"
   avatar           : "/assets/images/serg1.jpg"
   bio              : "Researcher / PhD candidate<br/> <a href=\"https://www.parallel.informatik.tu-darmstadt.de/team/sergei-shudler\">Technical University of Darmstadt</a>"
-  location         : "Darmstadt, Germany"
-  email            : shudler@cs.tu-darmstadt.de
+  location         : #"Darmstadt, Germany"
+  email            : "shudler@cs.tu-darmstadt.de"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
