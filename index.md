@@ -4,8 +4,6 @@ title: About Me
 tags: [home, about, Sergei, Shudler, homepage]
 modified: 2018-01-13T18:53:07.573882+01:00
 comments: false
-image:
-  feature: assets/images/melb_night.jpg
 ---
 
 I am a computer researcher / PhD candidate in the [Laboratory for Parallel Programming](https://www.parallel.informatik.tu-darmstadt.de/team/sergei-shudler/) at [Technical University of Darmstadt](https://www.parallel.informatik.tu-darmstadt.de/informatik/).
