@@ -3,6 +3,8 @@ title:  About Me
 layout: archive
 author_profile: true
 comments: false
+image:
+  feature: /assets/images/rockies2.jpg
 ---
 
 I am a computer researcher / PhD candidate in the [Laboratory for Parallel Programming](https://www.parallel.informatik.tu-darmstadt.de/team/sergei-shudler/) at [Technical University of Darmstadt](https://www.parallel.informatik.tu-darmstadt.de/informatik/).
