@@ -9,6 +9,19 @@ header:
 ---
 
 
+<ol start="1">
+
+<li>Patrick Reisert, Alexandru Calotoiu, <strong>Sergei Shudler</strong>, Felix Wolf:
+Following the Blind Seer – Creating Better Performance Models Using Less Information.
+In <cite>Proc. of the 23rd Euro-Par Conference</cite>,Santiago de Compostela, Spain of Lecture Notes in Computer Science, pages 106--118, Springer, August 2017.</li>
+
+<li><strong>Sergei Shudler</strong>, Alexandru Calotoiu, Torsten Hoefler, Felix Wolf:
+Isoefficiency in Practice: Configuring and Understanding the Performance of Task-based Applications.
+In <cite>Proc. of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)</cite>, Austin, TX, USA, pages 131--143, ACM, February 2017.</li>
+
+</ol>
+
+
 1. Patrick Reisert, Alexandru Calotoiu, **Sergei Shudler**, Felix Wolf: Following the Blind Seer – Creating Better Performance Models Using Less Information. In *Proc. of the 23rd Euro-Par Conference*, Santiago de Compostela, Spain of Lecture Notes in Computer Science, pages 106--118, Springer, August 2017.
 
 2. **Sergei Shudler**, Alexandru Calotoiu, Torsten Hoefler, Felix Wolf: Isoefficiency in Practice: Configuring and Understanding the Performance of Task-based Applications. In *Proc. of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)*, Austin, TX, USA, pages 131--143, ACM, February 2017.
