@@ -11,7 +11,7 @@ header:
 
 <ol start="1">
 
-<li>Patrick Reisert, Alexandru Calotoiu, <strong>Sergei Shudler</strong>, Felix Wolf:
+<li style="font-size:80%;">Patrick Reisert, Alexandru Calotoiu, <strong>Sergei Shudler</strong>, Felix Wolf:
 Following the Blind Seer – Creating Better Performance Models Using Less Information.
 In <cite>Proc. of the 23rd Euro-Par Conference</cite>,Santiago de Compostela, Spain of Lecture Notes in Computer Science, pages 106--118, Springer, August 2017.</li>
 
