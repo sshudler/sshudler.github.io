@@ -11,6 +11,11 @@ header:
 
 <ol start="1">
 
+<li style="font-size:80%;margin-bottom: 20px;"><strong>Sergei Shudler</strong>:
+Scalability Engineering for Parallel Programs Using Empirical Performance Models.
+PhD Dissertation, Technical University of Darmstadt, Germany, June 2018.
+<a href="http://tuprints.ulb.tu-darmstadt.de/7471/1/20180608_Shudler_diss_final.pdf">http://tuprints.ulb.tu-darmstadt.de/7471/1/20180608_Shudler_diss_final.pdf</a></li>
+
 <li style="font-size:80%;margin-bottom: 20px;">Patrick Reisert, Alexandru Calotoiu, 
 <strong>Sergei Shudler</strong>, Felix Wolf:
 Following the Blind Seer – Creating Better Performance Models Using Less Information.
