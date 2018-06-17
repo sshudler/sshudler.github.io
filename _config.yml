@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Sergei Shudler"
   avatar           : "/assets/images/serg1.jpg"
-  bio              : "Researcher / PhD candidate<br/> <a href=\"https://www.parallel.informatik.tu-darmstadt.de/team/sergei-shudler\">Technical University of Darmstadt</a>"
+  bio              : "Parallel Programming Researcher<br/> <a href=\"https://www.parallel.informatik.tu-darmstadt.de/team/sergei-shudler\">Technical University of Darmstadt</a>"
   location         : #"Darmstadt, Germany"
   email            : "shudler@cs.tu-darmstadt.de"
   uri              :
@@ -99,7 +99,7 @@ author:
   foursquare       :
   github           : "sshudler"
   gitlab           :
-  google_plus      :
+  google_plus      : "sergshu"
   keybase          :
   instagram        :
   lastfm           :
