@@ -4,8 +4,8 @@ sshudler:
   name: "Sergei Shudler"
   web: "http://sshudler.github.io"
   email: "shudler@cs.tu-darmstadt.de"
-  bio: "Researcher / PhD candidate<br/> <a href=\"https://www.parallel.informatik.tu-darmstadt.de/team/sergei-shudler\">Technical University of Darmstadt</a>"
+  bio: "Parallel Programming Researcher<br/> <a href=\"https://www.parallel.informatik.tu-darmstadt.de/team/sergei-shudler\">Technical University of Darmstadt</a>"
   avatar: "/assets/images/serg1.jpg"
-  twitter: #tgamblin
+  twitter: 
   google:
-    plus: #ToddGamblin
+    plus: sergshu
