@@ -3,8 +3,8 @@
 sshudler:
   name: "Sergei Shudler"
   web: "http://sshudler.github.io"
-  email: "shudler@cs.tu-darmstadt.de"
-  bio: "Parallel Programming Researcher<br/> <a href=\"https://www.parallel.informatik.tu-darmstadt.de/team/sergei-shudler\">Technical University of Darmstadt</a>"
+  email: "sshudler@anl.gov"
+  bio: "Postdoctoral Researcher<br/> <a href=\"https://www.alcf.anl.gov/our-teams\">Argonne National Laboratory</a>"
   avatar: "/assets/images/serg1.jpg"
   twitter: 
   google:
