@@ -30,7 +30,7 @@ In <cite>Proc. of the ACM SIGPLAN Symposium on Principles and Practice of Parall
 
 <li style="font-size:80%;margin-bottom: 20px;">Felix Wolf, Christian Bischof, Alexandru Calotoiu, Torsten Hoefler, Christian Iwainsky, Grzegorz Kwasniewski, Bernd Mohr, <strong>Sergei Shudler</strong>, Alexandre Strube, Andreas Vogel, Gabriel Wittum: <cite>Software for Exascale Computing - SPPEXA 2013-2015</cite>, chapter Automatic Performance Modeling of HPC Applications. Springer International Publishing, pages 445-465, 2016.</li>
 
-<li style="font-size:80%;margin-bottom: 20px;">Daniel Lorenz, <strong>Sergei Shudler</strong>, Felix Wolf: Preventing the explosion of exascale profile data with smart thread-level aggregation. In <cite>Proc. of ESPT2015: Workshop on Extreme Scale Programming Tools</cite>, held in conjunction with the Supercomputing Conference (SC15), Austin, TX, USA, November 2015.</li>
+<li style="font-size:80%;margin-bottom: 20px;">Daniel Lorenz, <strong>Sergei Shudler</strong>, Felix Wolf: Preventing the explosion of exascale profile data with smart thread-level aggregation. In <cite>Proc. of ESPT'15: Workshop on Extreme Scale Programming Tools</cite>, held in conjunction with the Supercomputing Conference (SC'15), Austin, TX, USA, November 2015.</li>
 
 <li style="font-size:80%;margin-bottom: 20px;">Christian Iwainsky, <strong>Sergei Shudler</strong>, Alexandru Calotoiu, Alexandre Strube, Michael Knobloch, Christian Bischof, Felix Wolf: How Many Threads will be too Many? On the Scalability of OpenMP Implementations. In <cite>Proc. of the 21st Euro-Par Conference</cite>, Vienna, Austria, August 2015.</li>
 
