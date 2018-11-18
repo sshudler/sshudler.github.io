@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "sshudler.github.io"
+title                    : "Sergei Shudler"
 title_separator          : "-"
 name                     : "Sergei Shudler"
 description              : #"An amazing website."
