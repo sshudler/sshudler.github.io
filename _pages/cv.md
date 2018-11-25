@@ -10,4 +10,4 @@ header:
 
 <i class="pdf-file"></i> [Download resume (2 pages)](sshudler_resume.pdf)
 
-<i class="pdf-file"></i> [Download full academic CV (4 pages)](sshudler_academic_cv.pdf)
+[//]: # (<i class="pdf-file"></i> [Download full academic CV (4 pages)](sshudler_academic_cv.pdf))
