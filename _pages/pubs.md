@@ -11,6 +11,10 @@ header:
 
 <ol start="1">
 
+<li style="font-size:80%;margin-bottom: 20px;"><strong>Sergei Shudler</strong>, Nicola Ferrier, Joseph Insley, Michael E. Papka, Silvio Rizzi: Spack Meets Singularity: Creating Movable In-Situ Analysis Stacks With Ease. In <cite>Proc. of ISAV'19: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization</cite>, held in conjunction with the Supercomputing Conference (SC'19), Denver, CO, USA, November 2019. (to appear)</li>
+
+<li style="font-size:80%;margin-bottom: 20px;"><strong>Sergei Shudler</strong>, Nicola Ferrier, Joseph Insley, Michael E. Papka, Saumil Patel, Silvio Rizzi: Fast Mesh Validation in Combustion Simulations through In-Situ Visualization. In <cite>Proc. of EGPGV'19: EuroGraphics Symposium on Parallel Graphics and Visualization</cite>, Porto, Portugal, June 2019.</li>
+
 <li style="font-size:80%;margin-bottom: 20px;"><strong>Sergei Shudler</strong>, Jadran Vrabec, Felix Wolf: Understanding the Scalability of Molecular Simulation using Empirical Perormance Modeling. In <cite>Proc. of ESPT'18: Workshop on Extreme Scale Programming Tools</cite>, held in conjunction with the Supercomputing Conference (SC'18), Dallas, TX, USA, November 2018.</li>
 
 <li style="font-size:80%;margin-bottom: 20px;"><strong>Sergei Shudler</strong>:
@@ -21,7 +25,7 @@ PhD Dissertation, Technical University of Darmstadt, Germany, June 2018.
 <li style="font-size:80%;margin-bottom: 20px;">Patrick Reisert, Alexandru Calotoiu, 
 <strong>Sergei Shudler</strong>, Felix Wolf:
 Following the Blind Seer – Creating Better Performance Models Using Less Information.
-In <cite>Proc. of the 23rd Euro-Par Conference</cite>,Santiago de Compostela, Spain, August 2017.</li>
+In <cite>Proc. of the 23rd Euro-Par Conference</cite>, Santiago de Compostela, Spain, August 2017.</li>
 
 <li style="font-size:80%;margin-bottom: 20px;"><strong>Sergei Shudler</strong>, Alexandru Calotoiu, 
 Torsten Hoefler, Felix Wolf:
