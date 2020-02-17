@@ -86,9 +86,9 @@ analytics:
 author:
   name             : "Sergei Shudler"
   avatar           : "/assets/images/serg1.jpg"
-  bio              : "Postdoctoral Researcher<br/> <a href=\"https://www.alcf.anl.gov/our-teams\">Argonne National Laboratory</a>"
-  location         : #"Darmstadt, Germany"
-  email            : "sergshu@gmail.com"
+  bio              : "Postdoctoral Researcher<br/> <a href=\"https://computing.llnl.gov/casc\">Lawrence Livermore National Laboratory</a>"
+  location         : #"Livermore, CA"
+  email            : "shudler1@llnl.gov"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :

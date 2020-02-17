@@ -7,4 +7,5 @@ header:
   overlay_image: /assets/images/rockies2.jpg
 ---
 
-I specialize in high-performance computing (HPC), parallel programming, and C++. In the course of my work, I used techniques from machine learning (linear regression) to uncover performance bottlenecks and develop a framework to engineer parallel applications for better scalability. Also, I have a strong background in software engineering with rich experience in C/C++, STL, multithreading, Python, OpenGL, and OpenCL. 
+I am an applied researcher in high-performance computing (HPC). My current work at CASC in Lawrence Livermore National Laboratory focuses on tools and workflows that target scalability bottlenecks in simulation applications, both from performance and data processing aspects. Languages and APIs I actively use: C/C++, Python, MPI, OpenMP, CUDA.
+
