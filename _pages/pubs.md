@@ -11,7 +11,9 @@ header:
 
 <ol start="1">
 
-<li style="font-size:80%;margin-bottom: 20px;"><strong>Sergei Shudler</strong>, Nicola Ferrier, Joseph Insley, Michael E. Papka, Silvio Rizzi: Spack Meets Singularity: Creating Movable In-Situ Analysis Stacks With Ease. In <cite>Proc. of ISAV'19: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization</cite>, held in conjunction with the Supercomputing Conference (SC'19), Denver, CO, USA, November 2019. (to appear)</li>
+<li style="font-size:80%;margin-bottom: 20px;"><strong>Sergei Shudler</strong>, Steve Petruzza, Valerio Pascucci Peer-Timo Bremer: Portable and Composable Flow Graphs for In Situ Analytics. In <cite>Proc. of the 2021 IEEE Symposium on Large Data Analysis and Visualization (LDAV), Virtual, November 2021.</li>
+
+<li style="font-size:80%;margin-bottom: 20px;"><strong>Sergei Shudler</strong>, Nicola Ferrier, Joseph Insley, Michael E. Papka, Silvio Rizzi: Spack Meets Singularity: Creating Movable In-Situ Analysis Stacks With Ease. In <cite>Proc. of ISAV'19: In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization</cite>, held in conjunction with the Supercomputing Conference (SC'19), Denver, CO, USA, November 2019.</li>
 
 <li style="font-size:80%;margin-bottom: 20px;"><strong>Sergei Shudler</strong>, Nicola Ferrier, Joseph Insley, Michael E. Papka, Saumil Patel, Silvio Rizzi: Fast Mesh Validation in Combustion Simulations through In-Situ Visualization. In <cite>Proc. of EGPGV'19: EuroGraphics Symposium on Parallel Graphics and Visualization</cite>, Porto, Portugal, June 2019.</li>
 

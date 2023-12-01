@@ -7,5 +7,7 @@ header:
   overlay_image: /assets/images/rockies2.jpg
 ---
 
-I am an applied researcher in high-performance computing (HPC). My current work at CASC in Lawrence Livermore National Laboratory focuses on tools and workflows that target scalability bottlenecks in simulation applications, both from performance and data processing aspects. Languages and APIs I actively use: C/C++, Python, MPI, OpenMP, CUDA.
+I'm a senior software engineer specializing in high-performance computing, 3D graphics, and visualization. I hold a doctorate degree from the Technical University of Darmstadt, Germany, and completed my postdoc in CASC at Lawrence Livermore National Laboratory.
 
+My skillset includes: C/C++, Python, OpenGL, OpenMP, MPI, multithreading, performance profiling and optimization.
+I also have some familiary with: Javascript, React, deep learning / AI, data analytics.
