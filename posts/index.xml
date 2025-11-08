@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sergei Shudler</title>
+    <link>https://sshudler.github.io/posts/</link>
+    <description>Recent content in Posts on Sergei Shudler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sergei.shudler@hpe.com (Sergei Shudler)</managingEditor>
+    <webMaster>sergei.shudler@hpe.com (Sergei Shudler)</webMaster>
+    <copyright>© 2025 Sergei Shudler</copyright>
+    <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sshudler.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Website generator</title>
+      <link>https://sshudler.github.io/posts/buildwebsite/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <author>sergei.shudler@hpe.com (Sergei Shudler)</author>
+      <guid>https://sshudler.github.io/posts/buildwebsite/</guid>
+      <description>Thoughts on using a website generator</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sshudler.github.io/posts/buildwebsite/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
